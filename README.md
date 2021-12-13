@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vigneshini
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning full stac development internship course in edureka
+- 🌱 I’m currently learning full stack development internship course in edureka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
